@@ -32,7 +32,7 @@ def convert(amount, src, dest, rates):
 
 
 #  actual key received from the API service.
-api_key = '0f9d80a1cb76e55288c0a2a158d7d510' 
+api_key = 'PLACE_HOLDER' 
 
 # List of currencies you want to get rates for, excluding the base currency (EUR).
 currencies = ['USD', 'GBP'] # EUR is excluded because it's the default base currency
